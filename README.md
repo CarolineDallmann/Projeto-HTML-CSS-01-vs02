@@ -1,4 +1,4 @@
-# Projeto de Estudo HTML-CSS vs02
+# Projeto de Estudo HTML-CSS-Javascript vs02
 
 Versão 02 do meu primeiro projeto.
 
